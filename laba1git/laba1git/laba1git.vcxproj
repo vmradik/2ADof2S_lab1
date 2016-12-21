@@ -79,6 +79,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Colleague.h" />
     <ClInclude Include="Department.h" />
     <ClInclude Include="MailReceiver.h" />
     <ClInclude Include="Mediator.h" />
