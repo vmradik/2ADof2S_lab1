@@ -1,5 +1,5 @@
 ========================================================================
-    CONSOLE APPLICATION : Lab1 Project Overview
+    CONSOLE APPLICATION  : Lab1 Project Overview
 ========================================================================
 
 AppWizard has created this Lab1 application for you.
