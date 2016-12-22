@@ -8,7 +8,7 @@
 
 int main()
 {
-
+	  
 	CMailMediator* mail_mediator = new CMailMediator();
 	CDepartment* first_department = new CDepartment();
 	first_department->set_name("First department");
