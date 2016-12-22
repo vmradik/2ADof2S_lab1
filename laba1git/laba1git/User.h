@@ -2,7 +2,7 @@
 #include "MailReceiver.h"
 #include "Mediator.h"
 
-class CUser : public CMailReceiver
+class CUser: public CMailReceiver
 {
 public:
 	CUser(void);

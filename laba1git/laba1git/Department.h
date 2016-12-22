@@ -4,7 +4,7 @@
 #include "MailReceiver.h"
 #include "Mediator.h"
 
-class CDepartment : public CMailReceiver
+class CDepartment: public CMailReceiver
 {
 public:
 	CDepartment(void);

@@ -4,7 +4,7 @@
 #include "Mediator.h"
 #include "MailReceiver.h"
 
-class CMailMediator : public CMediator
+class CMailMediator: public CMediator
 {
 public:
 	void add_colleague(CColleague* colleague);

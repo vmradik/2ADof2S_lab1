@@ -1,30 +1,40 @@
-﻿========================================================================
-    КОНСОЛЬНОЕ ПРИЛОЖЕНИЕ. Обзор проекта laba1git
+========================================================================
+    CONSOLE APPLICATION : Lab1 Project Overview
 ========================================================================
 
-Это приложение laba1git создано автоматически с помощью мастера приложений.
+AppWizard has created this Lab1 application for you.
 
-В этом файле представлена сводка содержимого всех файлов, входящих в состав приложения laba1git.
+This file contains a summary of what you will find in each of the files that
+make up your Lab1 application.
 
 
-laba1git.vcxproj
-    Это основной файл проекта VC++, создаваемый с помощью мастера приложений. Он содержит данные о версии языка Visual C++, использованной для создания файла, а также сведения о платформах, конфигурациях и функциях проекта, выбранных с помощью мастера приложений.
+Lab1.vcxproj
+    This is the main project file for VC++ projects generated using an Application Wizard.
+    It contains information about the version of Visual C++ that generated the file, and
+    information about the platforms, configurations, and project features selected with the
+    Application Wizard.
 
-laba1git.vcxproj.filters
-    Это файл фильтров для проектов VC++, созданный с помощью мастера приложений. Он содержит сведения о сопоставлениях между файлами в вашем проекте и фильтрами. Эти сопоставления используются в среде IDE для группировки файлов с одинаковыми расширениями в одном узле (например CPP-файлы сопоставляются с фильтром "Исходные файлы").
+Lab1.vcxproj.filters
+    This is the filters file for VC++ projects generated using an Application Wizard. 
+    It contains information about the association between the files in your project 
+    and the filters. This association is used in the IDE to show grouping of files with
+    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
+    "Source Files" filter).
 
-laba1git.cpp
-    Это основной исходный файл приложения.
+Lab1.cpp
+    This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
-Другие стандартные файлы:
+Other standard files:
 
 StdAfx.h, StdAfx.cpp
-    Эти файлы используются для построения файла предкомпилированного заголовка (PCH) с именем laba1git.pch и файла предкомпилированных типов с именем StdAfx.obj.
+    These files are used to build a precompiled header (PCH) file
+    named Lab1.pch and a precompiled types file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
-Прочие примечания.
+Other notes:
 
-С помощью комментариев «TODO:» в мастере приложений обозначаются фрагменты исходного кода, которые необходимо дополнить или изменить.
+AppWizard uses "TODO:" comments to indicate parts of the source code you
+should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
