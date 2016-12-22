@@ -1,5 +1,4 @@
 // Lab1.cpp : Defines the entry point for the console application.
-//
 
 #include "stdafx.h"
 #include "MailMediator.h"
@@ -9,6 +8,7 @@
 int main()
 {
 	  
+
 	CMailMediator* mail_mediator = new CMailMediator();
 	CDepartment* first_department = new CDepartment();
 	first_department->set_name("First department");
